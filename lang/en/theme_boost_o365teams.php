@@ -45,3 +45,6 @@ $string['showteamfeedbacklink_desc'] = 'If enabled, a link to leave feedback to 
 $string['advancedsettings'] = 'Advanced settings';
 $string['footer_stamp_title'] = "Tabs Footer Stamp";
 $string['footer_stamp_desc'] = "Displays Image or logo at bottom right of tabs.<br/>(Max-Height: 60px)";
+
+// Privacy provider.
+$string['privacy:metadata'] = 'Boost o365teams theme does not store any user data.';
